@@ -1,0 +1,10 @@
+.gradle/
+.idea/
+build/
+gradle/
+out/
+src/main/
+test-output/
+/AllureReportCommands.txt
+allure-report/
+allure-results/
